@@ -1,15 +1,5 @@
 ## 上千套各行业信息管理系统，总有一款适合您！ 👋  
 🙋‍♀️ 宏达软件专注中小型信息管理系统开发及相关服务，具有二十年行业耕耘实践经验。  
 🌈 大家可以在这里在线或下载体验您需要的各种信息管理系统，可以基于宏达平台对系统进行改进、调整和完善，希望更多更好的系统来服务大家！  
+💠 这里提供的所有软件，均支持二次开发服务，支持单机/网络使用，支持CS/BS模式，支持电脑/手机使用，所有产品均附带二次开发环境！让软件随客户业务需求改变而改变成为现实。  
 👩‍💻 官方网站(http://www.inmis.com )为每套系统提供了更加详尽的技术文档和使用资料，有其它特殊问题可以咨询该网站的在线客服，可以获得更好的答复！  
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
